@@ -1,0 +1,49 @@
+*	{
+	padding: 0;
+	margin:0;
+	box-sizing: border-box;
+	}
+h1 { 
+			color:  #FF1493;
+			font-family: "Rubik Mono One", cursive;
+			font-size:40px;
+	}
+div{
+	width: 80%;
+	}
+h2{ 
+     color:  #FF1493;
+			font-family: "Rubik Mono One", cursive;
+			font-size: 60px;	
+
+  }
+a {
+	color: #00FF00;
+	font-size: 100px;
+	text-decoration: NONE;
+	}
+ body{
+
+ 	}
+ form {
+ 	color:  #FF1493;
+			font-family: "Rubik Mono One", cursive;
+			font-size:30px;
+	 }
+ input type="radio"{
+ 	text-color: red;
+	 }
+legend{ 
+	text-decoration-color: red;
+	}
+p 	{
+	color:  #FF1493;
+	font-family: "Rubik Mono One", cursive;
+	font-size:30px;}
+legend{
+	text-color: red;
+	}
+ol 	{
+	color: #00FF00;
+	font-size: 40px;
+	}
